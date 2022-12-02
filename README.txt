@@ -1,2 +1,2 @@
-to install pillow do: "pip install pillow"
-to use run the "main.py" file
+run the "setup.bat" on windows or "setup.sh" on linux
+then run "main.py"
